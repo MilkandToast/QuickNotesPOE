@@ -120,4 +120,4 @@ Home screen displaying notes
 ![Image Alt](https://github.com/MilkandToast/QuickNotesPOE/blob/c138d4705c6c43bbc2cf4244429ff5bfab06d396/noteadded.jpg).
 
 Adding a note
-![Image Alt](image_url).
+![Image Alt](https://github.com/MilkandToast/QuickNotesPOE/blob/3f4fee8ce5703aa8eb5deaf3cd652383dd40237e/add%20notes.jpg).
