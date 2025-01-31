@@ -109,7 +109,7 @@ GitHub & GitHub Actions for version control and automation
 📸 Include screenshots of:
 
 Splash screen
-![Image Alt]([image_url](https://github.com/MilkandToast/QuickNotesPOE/blob/8eb6708f09e72351d874ff313cde620998de32d7/Splash.jpg)).
+![Image Alt]((https://github.com/MilkandToast/QuickNotesPOE/blob/8eb6708f09e72351d874ff313cde620998de32d7/Splash.jpg).
 
 Login page
 
