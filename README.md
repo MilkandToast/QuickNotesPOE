@@ -121,3 +121,8 @@ Home screen displaying notes
 
 Adding a note
 ![Image Alt](https://github.com/MilkandToast/QuickNotesPOE/blob/3f4fee8ce5703aa8eb5deaf3cd652383dd40237e/add%20notes.jpg).
+links to youtube videos 
+prototype part 2
+https://youtube.com/shorts/w35cknovIUo?feature=share
+Final Presentaion
+https://youtu.be/HesU35DfUWY
