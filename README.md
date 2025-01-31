@@ -112,7 +112,12 @@ Splash screen
 ![Image Alt]((https://github.com/MilkandToast/QuickNotesPOE/blob/8eb6708f09e72351d874ff313cde620998de32d7/Splash.jpg).
 
 Login page
+![Image Alt](https://github.com/MilkandToast/QuickNotesPOE/blob/c138d4705c6c43bbc2cf4244429ff5bfab06d396/login.jpg).
+![Image Alt](https://github.com/MilkandToast/QuickNotesPOE/blob/c138d4705c6c43bbc2cf4244429ff5bfab06d396/login%202.jpg).
 
 Home screen displaying notes
+![Image Alt](https://github.com/MilkandToast/QuickNotesPOE/blob/c138d4705c6c43bbc2cf4244429ff5bfab06d396/homepage.jpg).
+![Image Alt](https://github.com/MilkandToast/QuickNotesPOE/blob/c138d4705c6c43bbc2cf4244429ff5bfab06d396/noteadded.jpg).
 
 Adding a note
+![Image Alt](image_url).
