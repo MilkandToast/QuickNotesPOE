@@ -104,6 +104,12 @@ Firebase Firestore for database storage
 
 GitHub & GitHub Actions for version control and automation
 
+Utilization of AI Tools in Assessment Completion
+Throughout the completion of this assessment, AI tools played a significant role in enhancing productivity and efficiency. Specifically, Meta AI was leveraged to generate a logo for a note-taking app. This AI-powered tool enabled the rapid creation of a simple yet effective logo, saving time and effort that would have been spent on manual design.
+Example of AI Tool Utilization
+Logo Generation: Meta AI was used to generate a logo for the note-taking app. This involved providing a text prompt describing the desired logo, and the AI tool subsequently generated a suitable image.
+The use of Meta AI in this assessment demonstrates the potential of AI tools to streamline tasks, enhance creativity, and improve overall productivity.
+
 7. Screenshots
 
 📸 Include screenshots of:
